@@ -3,9 +3,8 @@
 **meu portfolio**
 
 
-- 🔭 Atualmente sou estudante
+- 🔭 Atualmente sou estudante e trabalho de meio periodo 
 - 👨‍💻  3° ano de Informatica no ensino medio no Instituto Federal Baiano
 - 👯 18 anos
-- 🤔 Trabalhando no momento á noite
 - 💬 aprendendo Python e Programação Web
   
