@@ -8,6 +8,5 @@
 - 👯 18 anos
 - 💬 aprendendo Python e Programação Web
 - 🚩 Serra do Ramalho, Bahia, Brasil
-
-  🚧 Página em Construção🚧
+               🚧 Página em Construção🚧
   
